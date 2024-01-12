@@ -22,12 +22,15 @@ html {
     box-sizing: inherit;
 }
 
-section {
-    background-color: rgb(247, 237, 52);
-}
-
 body {
     padding: 0;
     margin: 0;
     font-family: var(--sans);
+    background-color: var(--black);
+    color: var(--white);
+    font-size: var(--font-size);
+}
+
+h1,h2,h3 {
+    margin: 0;
 }
