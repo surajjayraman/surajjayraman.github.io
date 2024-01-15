@@ -140,6 +140,8 @@
     color: white;
     padding: 0.5rem;
     border-radius: 5px;
+    font-family: var(--mono);
+    text-decoration: none;
   }
   
   .button:hover {
