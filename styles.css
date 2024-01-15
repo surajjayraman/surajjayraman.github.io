@@ -42,6 +42,13 @@
     color: var(--hotmag);
     text-decoration: none;
   }
+
+  /* background color divs */
+
+  .section-plum {
+    background-color: var(--plum);
+  }
+
   /* intro styles */
   #intro {
     padding: 4rem 1rem 10rem 1rem;
@@ -74,11 +81,11 @@
   /* contact section */
   
   #contact {
-    
+    width: 400px;
     text-align: center;
     margin: 0 auto;
     padding: 3rem 0;
-    background-color: var(--plum);
+    
   }
   
   #contact p:last-child {
